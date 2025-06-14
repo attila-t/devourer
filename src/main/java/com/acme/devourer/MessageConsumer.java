@@ -1,4 +1,4 @@
-package com.autodesk.devourer;
+package com.acme.devourer;
 
 import jakarta.jms.JMSException;
 import jakarta.jms.Message;

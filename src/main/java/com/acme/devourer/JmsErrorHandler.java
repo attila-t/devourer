@@ -1,4 +1,4 @@
-package com.autodesk.devourer;
+package com.acme.devourer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
